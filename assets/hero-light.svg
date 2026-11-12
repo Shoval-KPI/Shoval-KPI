@@ -23,20 +23,20 @@
   </style>
 
   <!-- canvas -->
-  <rect x="1" y="1" width="958" height="268" rx="8" fill="#F8FAFA" stroke="#D4DEE0" stroke-width="2"/>
+  <rect x="1" y="1" width="958" height="268" rx="8" fill="#E9EDEE" stroke="#CDD6D9" stroke-width="2"/>
 
   <!-- decorative pixel scatter (left) -->
   <g>
     <rect class="tw t1" x="64"  y="70"  width="9" height="9" rx="1" fill="#088078"/>
     <rect class="tw t3" x="96"  y="102" width="7" height="7" rx="1" fill="#00A0B0"/>
     <rect class="tw t5" x="52"  y="140" width="8" height="8" rx="1" fill="#70B8B0"/>
-    <rect class="tw t2" x="108" y="168" width="9" height="9" rx="1" fill="#088078"/>
+    <rect class="tw t2" x="108" y="168" width="9" height="9" rx="1" fill="#07746D"/>
     <rect class="tw t4" x="70"  y="198" width="7" height="7" rx="1" fill="#088078"/>
     <rect class="tw t6" x="118" y="60"  width="6" height="6" rx="1" fill="#70B8B0"/>
   </g>
 
   <!-- workflow column (right), in place of kpiOS's quarter-hours -->
-  <g class="mono" font-size="12" fill="#5F757B" opacity=".6" text-anchor="end">
+  <g class="mono" font-size="12" fill="#52666B" opacity=".6" text-anchor="end">
     <text x="908" y="78">01 spec</text>
     <text x="908" y="118">02 build</text>
     <text x="908" y="158">03 review</text>
@@ -54,10 +54,10 @@
   <text class="ui fadein" x="412" y="124" font-size="54" font-weight="700" letter-spacing="-1.5" fill="#1D2B2E">Shoval</text>
 
   <!-- overline -->
-  <text class="ui fadein2" x="480" y="154" font-size="12" font-weight="600" letter-spacing="5" fill="#5F757B" text-anchor="middle">FINTECH · PROJECT MANAGER · KPI-FIN</text>
+  <text class="ui fadein2" x="480" y="154" font-size="12" font-weight="600" letter-spacing="5" fill="#52666B" text-anchor="middle">FINTECH · PROJECT MANAGER · KPI-FIN</text>
 
   <!-- tagline -->
-  <text class="ui fadein3" x="480" y="188" font-size="17" fill="#5F757B" text-anchor="middle">Building with AI and for AI</text>
+  <text class="ui fadein3" x="480" y="188" font-size="17" fill="#52666B" text-anchor="middle">Building with AI and for AI</text>
 
   <!-- pixel loader -->
   <g>

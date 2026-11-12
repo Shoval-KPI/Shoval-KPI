@@ -2,10 +2,10 @@
   <style>
     .ui   { font-family: 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, 'Noto Sans Hebrew', sans-serif; }
     .mono { font-family: 'Cascadia Mono', Consolas, 'SFMono-Regular', 'Courier New', monospace; }</style>
-  <rect x="1" y="1" width="166" height="38" rx="8" fill="#F8FAFA" stroke="#D4DEE0" stroke-width="1.5"/>
+  <rect x="1" y="1" width="166" height="38" rx="8" fill="#E9EDEE" stroke="#CDD6D9" stroke-width="1.5"/>
   <rect x="18" y="13" width="6" height="6" rx="1" fill="#00A0B0"/>
   <rect x="26" y="13" width="6" height="6" rx="1" fill="#088078"/>
   <rect x="26" y="21" width="6" height="6" rx="1" fill="#70B8B0"/>
   <text class="ui" x="44" y="25.5" font-size="14" font-weight="600" fill="#1D2B2E">LinkedIn</text>
-  <text class="mono" x="150" y="25" font-size="13" fill="#088078" text-anchor="end">↗</text>
+  <text class="mono" x="150" y="25" font-size="13" fill="#07746D" text-anchor="end">↗</text>
 </svg>
